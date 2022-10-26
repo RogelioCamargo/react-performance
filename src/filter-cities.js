@@ -17,5 +17,7 @@ export function getItems(filter) {
   })
 }
 
+console.log("Fix")
+
 // This is to avoid some issues https://github.com/kentcdodds/react-performance/issues/115
 export default class makeFilterCitiesWorker {}
